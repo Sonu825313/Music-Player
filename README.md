@@ -8,10 +8,12 @@ You can see the website live at:-
 
 Screenshots of the music player :-
 
-
+![Music-Player](https://user-images.githubusercontent.com/106314383/203766465-ebc72a24-edcd-45a9-9e48-e384063d0cd0.png)
 
 
 <br>
+
+![Music-Player (1)](https://user-images.githubusercontent.com/106314383/203766566-46484f64-14e8-43ed-902d-f5eb43cdc68e.png)
 
 
 
